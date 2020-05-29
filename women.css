@@ -1,0 +1,55 @@
+@media (min-width: 400px)
+{
+    .container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+@media( max-width: 960px)
+{
+    .container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+}
+body
+{
+    background-color: rgb(245,163,199);
+}
+.sidenav
+{
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+.sidenav a
+{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    display: block;
+    transition: 0.3s;
+}
+.sidenav .closebtn
+{
+    position: absolute;
+    top:0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.img1
+{
+    padding-left: 38%;
+}
