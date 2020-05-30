@@ -1,13 +1,6 @@
-@media (min-width: 400px)
+@media  (min-width: 400px)
 {
-    .container{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-}
-@media( max-width: 960px)
-{
+    
     .container{
         display: flex;
         justify-content: center;
@@ -16,7 +9,8 @@
     
 }
 body
-{
+{    
+    margin: 0;
     background-color: rgb(247,220,255);
 }
 .sidenav
@@ -49,10 +43,8 @@ body
     font-size: 36px;
     margin-left: 50px;
 }
-.img1
-{
-    padding-left: 38%;
-}
+
+
 .container
 {
     display: flex;
@@ -61,7 +53,7 @@ body
 .box1
 {
     margin-top: 4%;
-    margin-left: 15%;
+    margin-left: 0%;
 }
 .box2
 {
@@ -76,7 +68,7 @@ body
 .box4
 {
     margin-top: 0;
-    margin-left: 15%;
+    margin-left: 0%;
 }
 .box5
 {
@@ -90,7 +82,7 @@ body
 }
 .box7
 {
-    margin-left: 25%;
+    margin-left: 2%;
     margin-top: 0%;
 }
 .box8
@@ -98,3 +90,4 @@ body
     margin-left: 10%;
     margin-top: 0%;
 }
+

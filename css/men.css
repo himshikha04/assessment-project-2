@@ -6,15 +6,7 @@
         flex-wrap: wrap;
     }
 }
-@media( max-width: 960px)
-{
-    .container{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-    
-}
+
 body
 {
     background-color: rgb(172,226,254);
@@ -61,7 +53,7 @@ body
 .box1
 {
     margin-top: 1%;
-    margin-left: 15%;
+    margin-left: 0%;
 }
 .box2
 {
@@ -76,7 +68,7 @@ body
 .box4
 {
     margin-top: 1%;
-    margin-left: 15%;
+    margin-left: 0%;
 }
 .box5
 {
@@ -92,5 +84,5 @@ body
 .box7
 {
     margin-top: 1%;
-    margin-left: 41%;
+    margin-left: 1%;
 }

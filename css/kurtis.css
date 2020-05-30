@@ -1,4 +1,4 @@
-/*@media (min-width: 400px)
+@media (min-width: 400px)
 {
     .container{
         display: flex;
@@ -6,18 +6,10 @@
         flex-wrap: wrap;
     }
 }
-@media( max-width: 960px)
-{
-    .container{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-    
-}*/
+
 body
 {
-    background-color: rgb(247,220,255);
+    background-color: rgb(254,214,235);
 }
 .sidenav
 {
@@ -60,41 +52,36 @@ body
 }
 .box1
 {
-    margin-top: 4%;
-    margin-left: 15%;
+    margin-top: 1%;
+    margin-left: 0%;
 }
 .box2
 {
-    margin-top: 4%;
+    margin-top: 1%;
     margin-left: 7%;
 }
 .box3
 {
-    margin-top: 4%;
+    margin-top: 1%;
     margin-left: 7%;
 }
 .box4
 {
-    margin-top: 0;
-    margin-left: 15%;
+    margin-top: 1%;
+    margin-left: 0%;
 }
 .box5
 {
-    margin-top: 0;
+    margin-top: 1%;
     margin-left: 7%;
 }
 .box6
 {
-    margin-top: 0;
+    margin-top: 1%;
     margin-left: 7%;
 }
 .box7
 {
-    margin-left: 25%;
-    margin-top: 0%;
-}
-.box8
-{
-    margin-left: 10%;
-    margin-top: 0%;
+    margin-top: 1%;
+    margin-left: 1%;
 }

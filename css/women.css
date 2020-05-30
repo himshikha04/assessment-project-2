@@ -6,19 +6,10 @@
         flex-wrap: wrap;
     }
 }
-@media( max-width: 960px)
-{
-    .container{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-    
-}
 
 body
 {
-    background-color: rgb(254,214,235);
+    background-color: rgb(245,163,199);
 }
 .sidenav
 {
@@ -53,44 +44,4 @@ body
 .img1
 {
     padding-left: 38%;
-}
-.container
-{
-    display: flex;
-    flex-wrap: wrap;
-}
-.box1
-{
-    margin-top: 1%;
-    margin-left: 15%;
-}
-.box2
-{
-    margin-top: 1%;
-    margin-left: 7%;
-}
-.box3
-{
-    margin-top: 1%;
-    margin-left: 7%;
-}
-.box4
-{
-    margin-top: 1%;
-    margin-left: 15%;
-}
-.box5
-{
-    margin-top: 1%;
-    margin-left: 7%;
-}
-.box6
-{
-    margin-top: 1%;
-    margin-left: 7%;
-}
-.box7
-{
-    margin-top: 1%;
-    margin-left: 41%;
 }
