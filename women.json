@@ -1,0 +1,330 @@
+[{ 
+    "kurtis":
+    [
+        {
+            "brand":"BIBA",
+            "description":"Women's crepe Straight kurta",
+            "category":"Women's Wear",
+            "price":"Rs. 799",
+            "image": "https://i.pinimg.com/564x/8f/6e/6d/8f6e6dbece28910c87a88b09e307913f.jpg"
+        },
+        {
+            "brand":"FABINDiA",
+            "description":"Women's Polyster aline kurta",
+            "category":"Women's wear",
+            "price":"Rs. 599",
+            "image":"https://i.pinimg.com/564x/6e/f5/e1/6ef5e128e761016aac1fb205ac5a65d7.jpg"
+        },
+        {
+            "brand":"AURELIA",
+            "description":"Janasya Women's turqoise Crepe kurta",
+            "category":"Women's wear",
+            "price":"Rs. 1499",
+            "image":"https://i.pinimg.com/564x/d7/6f/fd/d76ffd0174c0f10ccc915624f88033d2.jpg"
+        },
+        {
+            "brand":"LIBAS",
+            "description":"Women's Rayon Printed Kurta ",
+            "category":"Women's wear",
+            "price":"Rs. 1599",
+            "image":"https://i.pinimg.com/564x/62/80/fe/6280fe2eaf82ac63fa3d0ed60f9eb3a7.jpg"
+        },
+        {
+            "brand":"AUM",
+            "description":"Women's Cotton Linig Print Kurta",
+            "category":"Women's wear",
+            "price":"Rs.1049",
+            "image":"https://i.pinimg.com/564x/16/fd/cd/16fdcd1e06ff21da541b14141a629a39.jpg"
+        },
+        {
+            "brand":"VISHUDH",
+            "description":"Women's Printed Kurti ",
+            "category":"Women's wear",
+            "price":"Rs. 1299",
+            "image":"https://i.pinimg.com/564x/96/0b/76/960b76cd10bb5f7c432e47be29f1f304.jpg"
+        },
+        {
+            "brand":"BIBA",
+            "description":"Women's Rayon PlainKurta Dupatta",
+            "category":"Women's wear",
+            "price":"Rs. 2500",
+            "image":""
+        }
+    ]
+},
+{
+    "jeans":
+    [
+        {
+            "brand":"ROADSTER",
+            "description":"Women Rugged Jeans",
+            "category":"Women's Wear",
+            "price":"Rs. 1100",
+            "image":"https://i.pinimg.com/564x/1c/68/57/1c6857d8059b5746f3a98033436505c8.jpg"
+        },
+        {
+            "brand":"SHEIN",
+            "description":"Women Skinny Fit Crop Jeans",
+            "category":"Women's Wear",
+            "price":"Rs. 2099",
+            "image":"https://i.pinimg.com/564x/b2/99/ea/b299eaa3aa6cea982d58fef9d91700d8.jpg"
+        },
+        {
+            "brand":"TOKYO TALKIES",
+            "description":"Women Skinny Fit Crop Jeans",
+            "category":"Women's Wear",
+            "price":"Rs. 1899",
+            "image":"https://i.pinimg.com/564x/10/51/87/10518798eee47106c5563e717255c311.jpg"
+        },
+        {
+            "brand":"HERE & NOW",
+            "description":"Women Black Skinny Fit Clean",
+            "category":"Women's Wear",
+            "price":"1699",
+            "image":"https://i.pinimg.com/564x/ac/a4/1a/aca41a9f11ce5fe2715441875f5ae3ce.jpg"
+        },
+        {
+            "brand":"H & M",
+            "description":"Women Paper Bag Trousers",
+            "category":"Women's Wear",
+            "price":"Rs.1999", 
+            "image":"https://i.pinimg.com/564x/34/da/2b/34da2b0943a4a5b3d6f5b9d87e840f65.jpg"
+        },
+        {
+            "brand":"ETHER",
+            "description":"Women Washed Denim Joggers",
+            "category":"Women's Wear",
+            "price":"Rs. 2000",
+            "image":"https://i.pinimg.com/564x/28/9a/b4/289ab482f99043a2777324ad69bad428.jpg"
+        },
+        {
+            "brand":"KASSUALLY",
+            "description":"Women Slim Fit Trousers",
+            "category":"Women's Wear",
+            "price":"Rs. 1099",
+            "image":""
+        }
+    ]
+},
+{
+    "jump_suits":
+    [
+        {
+            "brand":"SASSAFRAS",
+            "description":"Solid V-Neck Black Jumpsuit",
+            "category":"Women's Wear",
+            "price":"Rs. 3699", 
+            "image":"https://i.pinimg.com/564x/da/5e/3f/da5e3fab5bbeba81caa59cb3d08a8631.jpg"
+        },
+        {
+            "brand":"SHEIN",
+            "description":"Women Basic Jumpsuit",
+            "category":"Women,s Wear",
+            "price":"Rs. 2199",
+            "image":"https://i.pinimg.com/564x/91/ad/a6/91ada68d3408bbc0e8c79e46e1d46417.jpg"
+        },
+        {
+            "brand":"MANGO",
+            "description":"Chillmark Linen Jumpsuit",
+            "category":"Women's Wear",
+            "price":"Rs. 2149",
+            "image":"https://i.pinimg.com/564x/cb/45/b7/cb45b7b39bc08059aebfdae285e04e92.jpg"
+        },
+        {
+            "brand":"MADAME",
+            "description":"Black N White Basic Jumpsuit",
+            "category":"Women's wear",
+            "price":"Rs. 3500",
+            "image":"https://i.pinimg.com/564x/ef/5c/e2/ef5ce2e969f391e55bbd9b93991d5c9f.jpg"
+        },
+        {
+            "brand":"H & M",
+            "description":"Spaghetti V-Neck Jumpsuits ",
+            "category":"Women's Wear",
+            "price":"Rs. 4000",
+            "image":"https://i.pinimg.com/564x/3f/ac/51/3fac51d0fe2e16944b51438b1baadff8.jpg"
+        },
+        {
+            "brand":"ATHENA",
+            "description":"Tadashi Shoji-Crosby Jumpsuit",
+            "category":"Women's Wear",
+            "price":"Rs. 3000",
+            "image":"https://i.pinimg.com/564x/5d/63/32/5d633213ba74535f1c7e666c446f2407.jpg"
+        },
+        {
+            "brand":"KASSUALLY",
+            "description":"Full Sleeves Jumpsuit",
+            "category":"Women's Wear",
+            "price":"Rs. 2500",
+            "image":""
+        }
+    ]
+},
+{
+    "bridal_lehenga":
+    [
+        {
+            "brand":"SABYASACHI",
+            "description":"Embroided Kalidaar Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 1,00,000",
+            "image":"https://i.pinimg.com/564x/3b/c0/79/3bc079b7f70d94e6fcdd9b1a722b37b5.jpg"
+        },
+        {
+            "brand":"ANITA DONGRE",
+            "description":"Magenta Embroided Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 1,50,000",
+            "image":"https://i.pinimg.com/564x/76/19/cb/7619cbd2befdf282c7ad4892cbc9b16a.jpg"
+        },
+        {
+            "brand":"SABYASACHI",
+            "description":"Maroon Embroided Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 2,50,000",
+            "image":"https://i.pinimg.com/564x/a2/81/ce/a281cef8ecc70eb65b0d7e34bd435940.jpg"
+        },
+        {
+            "brand":"TARUN TAHILIANI",
+            "description":"Red Embroided Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 1,50,999",
+            "image":"https://i.pinimg.com/564x/2e/f1/16/2ef116ba52505189b97661f663ec540a.jpg"
+        },
+        {
+            "brand":"MANISH MALHOTRA",
+            "description":"Red And Saffron Gottapatti Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 2,00,000",
+            "image":"https://i.pinimg.com/564x/96/23/98/962398509ce26a7e0d0d68fd84799916.jpg"
+        },
+        {
+            "brand":"RITU KUMAR",
+            "description":"Red Embroided Lehenga",
+            "category":"Women's Wear",
+            "price":"Rs. 1,99,999",
+            "image":"https://i.pinimg.com/564x/cc/3d/93/cc3d93763051f36b56d29a78c6052c3c.jpg"
+        },
+        {
+            "brand":"ANITA DONGRE",
+            "description":"Fuchsia and Gotapatti Lehenga",
+            "category":"womrn's Wear",
+            "price":"Rs. 1,50,000",
+            "image":""
+        }
+
+    ]
+},
+{
+    "tops":
+    [
+        {
+            "brand":"ROADSTER",
+            "description":" Hooded Crop For Women",
+            "category":"Women's Wear",
+            "price":"Rs. 899",
+            "image":"https://i.pinimg.com/564x/db/11/97/db11978d7b39770cf996c569182bdd9e.jpg"
+        },
+        {
+            "brand":"HARPA",
+            "description":"Cut out Crop Top",
+            "category":"Women's Wear",
+            "price":"Rs. 799",
+            "image":"https://i.pinimg.com/564x/30/9d/54/309d540b06410ae1098babc6cae77bbf.jpg"
+        },
+       
+        {
+            "brand":"HERE & NOW",
+            "description":"Cut-out Crop Top",
+            "category":"Women's Wear",
+            "price":"Rs. 999",
+            "image":"https://i.pinimg.com/564x/87/ff/4d/87ff4d3fea159806b6e5718938dd891d.jpg"
+        },
+        {
+            "brand":"SASSAFRAS",
+            "description":"Printed Top",
+            "category":"Women's Wear",
+            "price":"Rs. 995",
+            "image":"https://i.pinimg.com/564x/09/fd/34/09fd341fb78994de68d9449d4244fc48.jpg"
+        },
+        {
+            "brand":"FOREVER 21",
+            "description":"Solid Twisted Top",
+            "category":"women's Wear",
+            "price":"Rs. 1299",
+            "image":"https://i.pinimg.com/564x/17/0a/a8/170aa8be8e8d5bb66cd86129b0b19650.jpg"
+        },
+        {
+            "brand":"VENI VIDI VICI",
+            "description":" Round Neck Floral Crop Blouse",
+            "category":"Women's Wear",
+            "price":"Rs. 1170",
+            "image":"https://i.pinimg.com/564x/86/90/6f/86906fe8d12489aa4f8eef9ba88f78c3.jpg"
+        },
+        {
+            "brand":"AND",
+            "description":"Cold Shoulder Crop Fitted Top",
+            "category":"Women's Wear",
+            "price":"Rs. 1699",
+            "image":""
+        }
+
+    ]
+},
+{
+    "dress":
+    [
+        {
+            "brand":"ATHENA",
+            "description":"Women Solid Sheath Dress",
+            "category":"Women's Wear",
+            "price":"RS. 1499",
+            "image":"https://i.pinimg.com/564x/d6/06/f6/d606f6d4d0dd1e79d37d91091eb535d3.jpg"
+        },
+        {
+            "brand":"TOKYO TALKIES",
+            "description":"Maroon Velvet Dress",
+            "category":"Women's Wear",
+            "price":"Rs. 1899",
+            "image":"https://i.pinimg.com/564x/89/44/07/894407bdf5ab395ab133abb68692be3c.jpg"
+        },
+        {
+            "brand":"SERA",
+            "description":"A-Line Black Dress",
+            "category":"Women's Wear",
+            "price":"Rs. 1499",
+            "image":"https://i.pinimg.com/564x/8d/73/16/8d73167d2e78ea560f6f0c5f37deb119.jpg"
+        },
+        {
+            "brand":"RARE",
+            "description":"Short Middi Dress",
+            "category":"Women's Wear",
+            "price":"Rs. 1899",
+            "image":"https://i.pinimg.com/564x/46/d7/c4/46d7c44c979c8614ee63e712a7cb3a7a.jpg"
+        },
+        {
+            "brand":"ATHENA",
+            "description":"High Quality Flower Dress",
+            "category":"Women's Wear",
+            "price":"Rs. 1011",
+            "image":"https://i.pinimg.com/564x/4a/af/a8/4aafa80bd484ff3059407f1d1f0f4a3b.jpg"
+        },
+        {
+            "brand":"COVER STORY",
+            "description":"Wedding Dress Ball Gown",
+            "category":"Women's Wear",
+            "price":"Rs. 2854",
+            "image":"https://i.pinimg.com/564x/30/2d/ac/302dac414aa09f6e659bd3c65cc05fb8.jpg"
+        },
+        {
+            "brand":"ATHENA",
+            "description":"Women Silver Embellished Maxi Dress",
+            "category":"Women's Wear",
+            "price":"Rs. 2500",
+            "image":""
+        }
+
+    ]
+}
+
+]

@@ -1,0 +1,329 @@
+[{ 
+    "shorts":
+    [
+        {
+            "brand":"NIKE",
+            "description":"Beach Shorts",
+            "category":"Men's Wear",
+            "price":"Rs. 2500",
+            "image":"https://i.pinimg.com/564x/31/da/9e/31da9e1e9a956b176611f55c70458cf9.jpg"
+        },
+        {
+            "brand":"ADIDAS",
+            "description":"Beach Shorts",
+            "category":"Men's wear",
+            "price":"Rs. 2000",
+            "image":"https://www.stingshop.com/media/catalog/product/cache/e4399e2dd0183d23047a73bf790125c9/s/b/sb6019s9n-1_1.jpg"
+        },
+        {
+            "brand":"REEBOK",
+            "description":"Basic Shorts",
+            "category":"Men's wear",
+            "price":"Rs. 3000",
+            "image":"https://www.dhresource.com/0x0/f2/albu/g6/M00/F5/4B/rBVaSFtpNfeAblkfAAAvU8ZwaZ4476.jpg"
+        },
+        {
+            "brand":"HRX",
+            "description":"Men Regular fit Shorts",
+            "category":"Men's wear",
+            "price":"Rs. 1900",
+            "image":"https://rukminim1.flixcart.com/image/714/857/jsxjekw0/short/g/8/y/4xl-tnvshortabs1-tripr-original-imafec65dustgpxn.jpeg?q=50"
+        },
+        {
+            "brand":"HERE & NOW",
+            "description":"Sports Shorts",
+            "category":"Men's wear",
+            "price":"Rs.2000",
+            "image":"https://lcpshop.net/wp-content/uploads/2019/05/236408-5xi4pu.jpg"
+        },
+        {
+            "brand":"HRX",
+            "description":"Men Slim Fit Cheno-shorts",
+            "category":"Men's wear",
+            "price":"Rs. 1900",
+            "image":"https://img2.exportersindia.com/product_images/bc-full/2019/9/6531314/mens-dry-fit-shorts-1568977218-5079947.jpeg"
+        },
+        {
+            "brand":"Marks & Spencer",
+            "description":"Denim Shorts",
+            "category":"Men's wear",
+            "price":"Rs. 3500",
+            "image":"https://www.iciw.com/bilder/artiklar/zoom/10349-001_1.jpg"
+        }
+    ]
+},
+{
+    "jeans":
+    [
+        {
+            "brand":"WROGN",
+            "description":"Men Slim Fit jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 2599",
+            "image":"data:image/jpeg;base64,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"
+        },
+        {
+            "brand":"HIGHLANDER",
+            "description":"Men Slim Fit Jeans ",
+            "category":"Men's Wear",
+            "price":"Rs. 2000",
+            "image":"https://5.imimg.com/data5/HF/YR/KU/SELLER-9832624/men-blue-slim-fit-mid-rise-clean-look-jeans-500x500.jpg"
+        },
+        {
+            "brand":"WROGN",
+            "description":"Men Skinny Fit Jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 3599",
+            "image":"https://www.folksgo.com.au/wp-content/uploads/2019/01/Sulee-Brand-Men-Spring-Summer-Jeans-Denim-Mens-Jeans-Slim-Fit-Plus-Size-to-40-Big.jpg"
+        },
+        {
+            "brand":"HIGHLANDER",
+            "description":"Men Trapped Fit Jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 1900",
+            "image":"https://ae01.alicdn.com/kf/HTB1wjNIl_qWBKNjSZFAxh5nSpXa9/Batmo-2019-new-arrival-high-quality-casual-slim-jeans-men-men-s-pencil-pants-skinny-jeans.jpeg_640x640.jpeg"
+        },
+        {
+            "brand":"Roadster",
+            "description":"Men Trapped Fit Jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 2000",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuOxo2e3jRwB6_CNXnIXNcwY3aNhi4YyUWzjAEuEHW3IlTETgy&usqp=CAU"
+        },
+        {
+            "brand":"Calvien Klein",
+            "description":"Men Slim Fit Jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 9399",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqHWDlten4Gd89_gvp3i-16rufpruKzu0OFErw4LD-zKb0b3y3&usqp=CAU"
+        },
+        {
+            "brand":"HIGHLANDER",
+            "description":"Rugged Jeans",
+            "category":"Men's Wear",
+            "price":"Rs. 2000",
+            "image":"https://5.imimg.com/data5/RO/PS/MY-53107342/mens-denim-ripped-jeans-500x500.jpg"
+        }
+    ]
+},
+{
+    "shirts":
+    [
+        {
+            "brand":"HERE & NOW",
+            "description":"Men regular fit Casual Shirt",
+            "category":"Men's Wear",
+            "price":"Rs.2599",
+            "image":"https://ae01.alicdn.com/kf/HTB1tOmULXXXXXbXXXXXq6xXFXXXQ/VISADA-JAUNA-2018-Men-Shirts-Business-Long-Sleeve-Turn-down-Collar-Cotton-Male-Shirt-Slim-Fit.jpg"
+        },
+        {
+            "brand":"JOHN PLAYERS",
+            "description":"Men Slim Fit Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 3000",
+            "image":"https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/2111/9920/COODRONY-Men-Shirt-Mens-Business-Casual-Shirts-2017-New-Arrival-Men-Famous-Brand-Clothing-Plaid-Long__41310.1514270652.jpg?c=2?imbypass=on"
+        },
+        {
+            "brand":"WRANGLER",
+            "description":"Men Slim Fit Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1599",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbFC8CJ4yum5TEANkZ0EFUlLquzcgGS8Q53g4X1uO8teBGbJDx&usqp=CAU"
+        },
+        {
+            "brand":"ARROW",
+            "description":"Slim Fit Casual Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 3900",
+            "image":"https://i.pinimg.com/originals/21/c4/b5/21c4b5c7271768345485196cc423f3f6.jpg"
+        },
+        {
+            "brand":"GUESS",
+            "description":"Regular Fit Checks Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 2000",
+            "image":"https://5.imimg.com/data5/UC/TY/MY-9601095/100-25-cotton-fancy-casual-shirt-for-men-500x500.jpg"
+        },
+        {
+            "brand":"U.S POLO",
+            "description":"Men Slim Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 3399",
+            "image":"https://global2019-static-cdn.kikuu.com/upload-productImg-13389597279898403_320_234.jpg?"
+        },
+        {
+            "brand":"Mast & Harbour",
+            "description":"Casual Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1699",
+            "image":"https://www.surfstitch.com/on/demandware.static/-/Sites-ss-master-catalog/default/dw43f11ab8/images/S5201170WHITE/WHITE-MENS-CLOTHING-SWELL-SHIRTS-S5201170WHITE_1.JPG"
+        }
+    ]
+},
+{
+    "tshirts":
+    [
+        {
+            "brand":"U.S POLO",
+            "description":"Cotton T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1599",
+            "image":"https://src1.ilogo.in/images/products/8473/custom-mens-v-neck-t-shirt.jpg"
+        },
+        {
+            "brand":"FIDO DIDO",
+            "description":"Polo Collar T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1499",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc9jxKG2cvj3dtG3kCTgUQGh9nVcBXuqoKMZMMi2rO0XcBe-IT&usqp=CAU"
+        },
+        {
+            "brand":"HRX",
+            "description":"Round neck T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1099",
+            "image":"https://www.indianterrain.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/i/t/itmts00544redss-1.jpg"
+        },
+        {
+            "brand":"HRX",
+            "description":"Printed T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 800",
+            "image":"https://rukminim1.flixcart.com/image/832/832/jmawvbk0/t-shirt/m/5/f/xl-urn-new-men-t-shirt-wwe-men-tshirt-original-imaf97zvmg3cy3pw.jpeg?q=70"
+        },
+        {
+            "brand":"NIKE",
+            "description":"Round Neck T-shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 2000",
+            "image":"https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/26281/242440/TFETTERS-Fashion-Men-T-shirt-Slim-Fit-Custom-T-shirt-Crease-Design-Long-Stylish-Luxury-V__10767.1550172490.jpg?c=2?imbypass=on"
+        },
+        {
+            "brand":"NIKE",
+            "description":"Casual T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 999",
+            "image":"https://i1.adis.ws/i/boohooamplience/mzz11414_black_xl?pdp.template"
+        },
+        {
+            "brand":"H&M",
+            "description":"Collar T-Shirt",
+            "category":"Men's Wear",
+            "price":"Rs. 1699",
+            "image":"https://familysta.com/us/wp-content/uploads/sites/22/2019/06/1014726M-men-tshirt-black-cotton-bear-print-matching-familysta.jpg"
+        }
+
+    ]
+},
+{
+    "Traditional":
+    [
+        {
+            "brand":"Manyavar",
+            "description":"Men velvet Shervani with pant",
+            "category":"Men's Wear",
+            "price":"Rs. 10,000",
+            "image":"https://i.pinimg.com/736x/3f/a1/c5/3fa1c5500eb20f3bcef21563467a332d.jpg"
+        },
+        {
+            "brand":"SG RAJASAHAB",
+            "description":"Men Solid Silk Shervani",
+            "category":"Men's Wear",
+            "price":"Rs. 13,000",
+            "image":"https://i.pinimg.com/originals/d8/06/4c/d8064c5cf1a7f8fd8538369f8f13ab7a.jpg"
+        },
+        {
+            "brand":"House Of Pataudi",
+            "description":"Silk Coatie",
+            "category":"Men's Wear",
+            "price":"Rs. 6,000",
+            "image":"https://medias.utsavfashion.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/q/u/quilted-scuba-jacket-in-pink-v1-mtx584.jpg"
+        },
+        {
+            "brand":"House Of Pataudi",
+            "description":"Bandgala Blazer",
+            "category":"Men's Wear",
+            "price":"Rs. 5,000",
+            "image":"https://i.pinimg.com/564x/ec/a9/2a/eca92a0e70d03b38da155ebaf46c7ae6.jpg"
+         },
+        {
+            "brand":"Manyavar",
+            "description":"Men Printed Jacket",
+            "category":"Men's Wear",
+            "price":"Rs. 4,000",
+            "image":"https://medias.utsavfashion.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/r/printed-art-silk-jacket-in-beige-v1-mtx579.jpg"
+        },
+        {
+            "brand":"See Designs",
+            "description":"Asymmetric Straight Kurta",
+            "category":"Men's Wear",
+            "price":"Rs. 3,999",
+            "image":"https://i.pinimg.com/564x/8d/86/32/8d863283e4b15b73289c632dd489e4ae.jpg"
+        },
+        {
+            "brand":"SOJANYA",
+            "description":"Solid Straight Kurta",
+            "category":"Men's Wear",
+            "price":"Rs. 2,599",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_oH9rT3mxF6wMwmIrGyQF6L2UnlfFXFnrDmfGZ38HwvEvM6gA&usqp=CAU"
+        }
+
+    ]
+},
+{
+    "Trousers":
+    [
+        {
+            "brand":"Louis Philippe",
+            "description":"Men Regular Trousers",
+            "category":"Men's Wear",
+            "price":"Rs. 2,999",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbJkwIMMdMHeInzXk5ghc8S_mLpoNOSrTuDT1Ufxux2ggRpZ5D&usqp=CAU"
+        },
+        {
+            "brand":"HERE & NOW",
+            "description":"Men Slim Fit Trousers",
+            "category":"Men's Wear",
+            "price":"Rs. 2,009",
+            "image":"https://5.imimg.com/data5/MA/OO/MY-12647544/img_9971-style-1-500x500.jpg"
+        },
+        {
+            "brand":"HIGHLANDER",
+            "description":"Men Fit Chinos",
+            "category":"Men's Wear",
+            "price":"Rs. 1,799",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU2ITvZVhE23CS7eOGSDsTbGPVNxqsAAQopVorN9lU3vvTpkTS&usqp=CAU"
+        },
+        {
+            "brand":"WROGN",
+            "description":"Men Fit Chinos",
+            "category":"Men's Wear",
+            "price":"Rs. 2,099",
+            "image":"https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/13794/136806/Mens-Dress-Pants-2018-Formal-Men-Trousers-Office-Male-High-grade-Business-Straight-Suit-Pants-Pure__06418.1544094010.jpg?c=2&imbypass=on"
+        },
+        {
+            "brand":"Allen Solly",
+            "description":"Men Trapped Fit Chinos",
+            "category":"Men's Wear",
+            "price":"Rs.3,000",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjn9qy2WWFm0BtoevFzG0gRXXsG5kv7v8RFFZto_n9yHLJmNR5&usqp=CAU"
+        },
+        {
+            "brand":"Allen Solly",
+            "description":"Men Slim Fit Trousers",
+            "category":"Men's Wear",
+            "price":"Rs. 3,000",
+            "image":"https://ae01.alicdn.com/kf/HTB1iAOOvviSBuNkSnhJq6zDcpXav/Korean-Slim-Fit-Men-Trousers-Suit-Pant-Black-Navy-Solid-Business-Casual-Office-Trouser-Pantaloni-Tuta.jpg"
+        },
+        {
+            "brand":"JOHN PLAYERS",
+            "description":"Men Regular Trousers",
+            "category":"Men's Wear",
+            "price":"Rs. 2,899",
+            "image":"https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
+        }
+
+    ]
+}
+
+]

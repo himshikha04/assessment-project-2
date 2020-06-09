@@ -1,10 +1,64 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title> Login</title>
-    </head>
-    <body>
-        Work in progress
-    </body>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Login</title>
+<link rel="stylesheet" href="../css/login.css">
+<script src="../js/login.js"></script>
+</head>
+<body>
+    <header>
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>>
+            <a href="login.html"> Login</a>
+            <a href="../index.html">Home</a>
+            <a href="men.html"> Men's wear </a>
+            <a href="women.html"> Women's wear</a>
+            <a href="wishlist.html"> Your wishlist</a>
+        </div>
+        <nav style="display: flex; justify-content: space-between;">
+            <span style="font-size: 30px; cursor: pointer; " onclick="openNav()">&#9776; </span>
+            <img src="../images/B62F96A1-D14F-4A06-8E9A-A8270DC99227.JPEG" style="width: 13%; height: 0%; padding-left: 2%;" >
+            <div style="display: flex; justify-content: space-between; flex-grow: 0.1;">
+                <i class="fa fa-search" aria-hidden="true" style="font-size: 25px;"></i>
+                <i class="fa fa-bell " aria-hidden="true" style=" font-size: 25px;"></i>
+                <i class="fa fa-shopping-bag " aria-hidden="true" style=" font-size: 25px;"></i>
+            
+            </div>
+            
+        </nav>
+            
+    </header>
+  
+    <p style="padding-top: 14%; padding-left: 40%;  "><button onclick="document.getElementById('id01').style.display='block'" style="width:auto;" class="btn">Login</button></p>
+   
+
+<div id="id01" class="modal">
+  
+  <form  >
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+      <img src="../images/IMG-4221 (1).PNG" style="height: 80px; width: 80px;" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+      <label for="uname"><b>Username</b></label>
+      <input type="text" placeholder="Enter Username" name="uname" required>
+       
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+        
+      <button type="submit">Login</button>
+      <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+      </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+    </div>
+  </form>
+</div>
+</body>
 </html>
